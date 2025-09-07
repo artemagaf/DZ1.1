@@ -85,7 +85,7 @@ public class Main {
 //            }
 //        }
 //        System.out.println(isPrime ? "YES" : "NO");
-        //10
+        //10---
         int a = scanner.nextInt();
         int d = scanner.nextInt();
         int n = scanner.nextInt();
